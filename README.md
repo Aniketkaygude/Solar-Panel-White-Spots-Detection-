@@ -1,0 +1,1 @@
+# Solar-Panel-White-Spots-Detection-
